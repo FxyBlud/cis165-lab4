@@ -11,6 +11,6 @@ int main()
     double sum = score1 + score2 + score3 + score4 + score5;
     double average = sum / 5;
     
-    cout << "Sum: " << average << endl;
+    cout << "Average: " << average << endl;
     return 0;
 }
