@@ -29,4 +29,4 @@
 | Average — assigned values | 28, 32, 37, 24, 33 | Expected - Sum: 154, Average: 30.8 | Actual - Sum: 154, Average: 30.8 | Match |
 | Average — changed values | 82, 23, 73, 42, 33| Expected - Sum: 253, Average: 50.6 | Actual - Sum 253:, Average: 50.6 | Match |
 | Ocean — assigned rate | 1.5 | Expected - Ocean levels by year in order: 7.5, 10.5, 15 | Actual - Ocean level by year in order: 7.5, 10.5, 15 | Match |
-| Ocean — changed rate | 4.2 | Expected - Ocean levels by year in order: 21.0mm, 29.4mm, 42mm | Actual - Ocean level by year in order: 21.0mm, 29.4mm, 42mm | Match |
+| Ocean — changed rate | 4.2 | Expected - Ocean levels by year in order: 21.0mm, 29.4mm, 42mm | Actual - Ocean level by year in order: 21mm, 29.4mm, 42mm | Match |
