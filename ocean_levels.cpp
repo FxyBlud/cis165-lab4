@@ -11,8 +11,8 @@ int main()
     double oceanLvlyear7 = ANNUAL_RATE * year7;
     double oceanLvlyear10 = ANNUAL_RATE * year10;
     
-    cout << "After 5 years: " << oceanLvlyear5 << "mm." << endl;
-    cout << "After 7 years: " << oceanLvlyear7 << "mm." << endl;
-    cout << "After 10 years: " << oceanLvlyear10 << "mm." << endl;
+    cout << "After 5 years: " << oceanLvlyear5 << " mm." << endl;
+    cout << "After 7 years: " << oceanLvlyear7 << " mm." << endl;
+    cout << "After 10 years: " << oceanLvlyear10 << " mm." << endl;
     return 0;
 }
